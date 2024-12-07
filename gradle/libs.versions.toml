@@ -4,7 +4,7 @@ jline = '3.21.0'
 
 # Gradle plugins
 micronaut-gradle-plugin = "3.7.0"
-kotlin-gradle-plugin = "1.7.22"
+kotlin-gradle-plugin = "1.9.10"
 
 [libraries]
 jline-graal = { module = "org.jline:jline-graal", version.ref = 'jline' }
