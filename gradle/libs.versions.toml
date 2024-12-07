@@ -1,6 +1,6 @@
 [versions]
 micronaut = '3.8.2'
-jline = '3.21.0'
+jline = '3.23.0'
 
 # Gradle plugins
 micronaut-gradle-plugin = "3.7.0"
